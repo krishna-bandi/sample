@@ -1,0 +1,17 @@
+body
+{
+    background-color: #c9e7f6;
+}
+p
+{
+    
+    
+}
+
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
